@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url("https://github.com/Islam-Turky/store/blob/c63bcbf462b8216fbb223eae116080557485ea91/images/back.jpg") no-repeat;
+    background: url(images/back.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
